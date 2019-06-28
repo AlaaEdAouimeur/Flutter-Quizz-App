@@ -1,20 +1,21 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![](assets/20190628_165631.png)
 
 
 # Quizzler ❓
 
-## Our Goal
+## My Goal In This Project
 
-In this tutorial we will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
+In this App i will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
 
 
-## What you will create
+## What Is this 
 
-We’re going to make a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
+Quizzler a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
+![Finished App](assets/2019_06_28_16_36_25_trim (1).gif)
+![Finished App](https://github.com/AlaaEdAouimeur/Flutter-Quizz-App/blob/master/assets/2019_06_28_16_35_28_trim.gif)
 
-## What you will learn
+## What's in This App
 
 - Modularising your code into separate classes.
 - Dart classes and objects.
@@ -24,14 +25,3 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 - How to use Dart lists.
 - The difference between var, const and final.
 
-## Code Snippet for Project
-
-```
-
-
-```
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
